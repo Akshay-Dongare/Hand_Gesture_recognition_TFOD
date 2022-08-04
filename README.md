@@ -12,4 +12,3 @@ You need to create a virtual environment to keep all the required libraries.
 You must clone Tensorflow in your repo.
 
 You have to install "object detection api" using https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html
-spellling mistace
