@@ -1,0 +1,2 @@
+- name: Check Spelling
+  uses: check-spelling/check-spelling@v0.0.20
